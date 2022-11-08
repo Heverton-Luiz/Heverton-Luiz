@@ -23,8 +23,13 @@ __Tenho 20 anos em busca da mudança pra carreira de TI, e também na busca da p
 </div>
 
 <div align=left>
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=HLverse&hide=&count_private=true&show_icons=true&theme=codeSTACKr&bg_color=DEG,A020F0,EE82EE&icon_color=FFFAFA&border_color=9400D3&locale=en&text_color=000000&border_radius=30&title_color=000000&show_owner=true&card_width=500&custom_title=Heverton Luiz GitHub Stats">
+  <source
+   height="190cm" srcset="https://github-readme-stats.vercel.app/api?username=HLverse&hide=&count_private=true&show_icons=true"
+   media="(prefers-color-scheme: dark)"/>
+   <source
+    height="190cm" srcset="https://github-readme-stats.vercel.app/api?username=HLverse&hide=&count_private=true&show_icons=true"
+   media="(prefers-color-scheme: light)"/>
+  <a href="https://github.com/HLverse"><img src="https://github-readme-stats.vercel.app/api?username=HLverse&hide=&count_private=true&show_icons=true&theme=codeSTACKr&bg_color=DEG,A020F0,EE82EE&icon_color=FFFAFA&border_color=9400D3&locale=en&text_color=000000&border_radius=30&title_color=000000&show_owner=true&card_width=500">
 </div>
 
 <div align=left>
