@@ -33,7 +33,7 @@ __Tenho 20 anos em busca da mudança pra carreira de TI, e também na busca da p
 </div>
 
 <div align=left>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HLverse&layout=compact&border_radius=30&bg_color=DEG,A020F0,EE82EE&title_color=000000&border_color=9400D3&text_color=000000&langs_count=5&card_width=500">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HevertonDevBack&layout=compact&border_radius=30&bg_color=DEG,A020F0,EE82EE&title_color=000000&border_color=9400D3&text_color=000000&langs_count=5&card_width=500">
 </div>
 <div align= right>
 
