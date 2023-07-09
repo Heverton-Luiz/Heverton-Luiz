@@ -2,7 +2,7 @@
 <div algin=left>
 
 ## About me 🙋🏾‍♂️
-__Tenho 20 anos em busca da mudança pra carreira de TI, e também na busca da primeira oportunidade de desenvolvimento em back-end utilizando Node.js e React!__
+__Tenho 21 anos em busca da mudança pra carreira de TI, e também na busca da primeira oportunidade de desenvolvimento em back-end utilizando Node.js e React!__
 
 ## Studying at the moment ✍🏾
 * **HTML5**
