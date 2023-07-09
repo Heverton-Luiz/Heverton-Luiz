@@ -5,9 +5,9 @@
 __Tenho 21 anos em busca da mudança pra carreira de TI, e também na busca da primeira oportunidade de desenvolvimento em back-end utilizando Node.js e React!__
 
 ## Studying at the moment ✍🏾
-* **HTML5**
-* **Node.js**
-* **JavaScript**
+* **SQL**
+* **MongoDB**
+* **TypeScript**
 
 ## I'm aware 👨🏾‍💻
 * **CSS**
@@ -18,7 +18,7 @@ __Tenho 21 anos em busca da mudança pra carreira de TI, e também na busca da p
 ## I'm interested in learning 💭
 - **MySQL**
 - __React__
-- **Python**
+- **Spring Boot**
 ---
 </div>
 
